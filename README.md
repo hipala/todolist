@@ -21,6 +21,6 @@ uigradients
 http://uigradients.com/
 漸層色選擇，這超棒的！
 
-![](https://raw.githubusercontent.com/hipala/todolist/gh-pages/todo-list-screenshot.png?aw=true)
+![](https://raw.githubusercontent.com/hipala/todolist/gh-pages/todo-list-screenshot.png?raw=true)
 
 ![](https://raw.githubusercontent.com/hipala/todolist/gh-pages/todo-list-comment.png?raw=true)
